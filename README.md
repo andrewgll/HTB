@@ -1,8 +1,4 @@
-# Vaccine Write-up
+# My HTB Documentation
+## Welcome to my educational documentation
 
-This is my documentation of [HTB Write-up](hackthebox.com)
-
-0. Setup: connecting to VPN, getting machine online
-
-1. Start with nmap scan:
-	- sudo nmap -sC -sV ```{tartget_IP}```
+## Here You can explore my progress on (https://hackthebox.com)[HTB]
